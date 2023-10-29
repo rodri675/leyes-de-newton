@@ -179,6 +179,11 @@ nav {
   font-family: 'Exo 2', sans-serif;
 }
 
+.side h3 a {
+  text-decoration: none;
+  color: #c5dff8;
+}
+
 .side ul {
   display: grid;
   justify-items: center;
